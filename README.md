@@ -3,7 +3,10 @@
 <br>
 <br>
 
-- 👾 I’m currently working on an E-commerce Mobile Application.
+- 👾 I’m currently working on an E-commerce Mobile Application (Cej Packaging).
 - 🤩 I’m currently and will forever be learning.
 - 💥 Fun fact: I started coding when I was 17 for fun.
+- 🧡 My Favorite Programming Language is C#.
+- 💪 When I am not coding, I go to the gym.
+- 📈 I speak HTML, CSS, PHP, JAVA, JAVASCRIPT, PYTHON, C++
 
